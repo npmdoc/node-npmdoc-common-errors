@@ -1,6 +1,6 @@
 # npmdoc-common-errors
 
-#### api documentation for  [common-errors (v1.0.0)](https://github.com/shutterstock/node-common-errors#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-common-errors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-common-errors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-common-errors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-common-errors)
+#### basic api documentation for  [common-errors (v1.0.0)](https://github.com/shutterstock/node-common-errors#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-common-errors.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-common-errors) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-common-errors.svg)](https://travis-ci.org/npmdoc/node-npmdoc-common-errors)
 
 #### Common error classes and utility functions
 
@@ -97,7 +97,8 @@
     "scripts": {
         "test": "mocha --recursive tests"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
